@@ -13,11 +13,11 @@ The app emphasizes **clean architecture**, **testing**, and **best Git workflow 
 ## 📌 Features
 
 ### Core Features
+- **Splash Screen**: logo displayed on app start.
+- **Onboarding**: introduction with image and descriptive text.
 - **View Pets**: Browse all available pets with details.
 - **Add to Favorites**: Save pets you like.
 - **Search / Filter**: Find pets by breed or preference.
-- **Splash Screen**: Animated logo displayed on app start.
-- **Onboarding**: Multi-step introduction with images and descriptive text.
 
 ### Testing Features
 - **Unit Tests**: Validate business logic and Cubit states.
