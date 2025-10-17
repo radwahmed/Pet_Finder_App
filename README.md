@@ -41,8 +41,9 @@ The app emphasizes **clean architecture**, **testing**, and **best Git workflow 
 
 ## 🖼️ Screenshots
 
-### Splash & Onboarding
+### Splash & Onboarding & Home
 <div align="center">
+  <img width="478" height="999" alt="CopyQ xEMSlr" src="https://github.com/user-attachments/assets/04791d16-e26e-4e60-9f77-058ef5363598" />
   <img width="200" src="https://github.com/user-attachments/assets/b51ae7b6-e250-4954-9ca7-6c5cef8fa3ea" alt="Splash Screen" />
   <img width="200" src="https://github.com/user-attachments/assets/8e85ed7a-5a05-4e05-aaac-3338a9017d8b" alt="Onboarding Screen" />
 </div>
